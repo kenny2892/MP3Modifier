@@ -1,7 +1,7 @@
 # MP3Modifier
 ![Icon](https://raw.githubusercontent.com/kenny2892/MP3Modifier/master/MP3%20Modifier%202.0/src/Resources/Images/Icon.png)
 
-This is my MP3 Modification program. that I created to perform various tasks with my music library.
+This is my MP3 Modification program that I created to perform various tasks with my music library.
 
 It contains:
 - A Music Player
